@@ -1,0 +1,19 @@
+# Stock Analyzer Requirements
+
+# Core dependencies
+requests>=2.31.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data sources
+efinance>=0.5.6
+akshare>=1.12.0
+tushare>=1.4.0
+
+# AI/ML (optional, for analysis)
+openai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+colorama>=0.4.6
+tabulate>=0.9.0
