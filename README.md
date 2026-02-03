@@ -25,7 +25,7 @@ npx clawdhub@latest install stock-analyzer
 ### Manual Installation
 
 ```bash
-git clone https://github.com/yourusername/stock-analyzer.git ~/.openclaw/skills/stock-analyzer
+git clone https://github.com/Baoyx007/stock-analyzer.git ~/.openclaw/skills/stock-analyzer
 cd stock-analyzer
 pip install -r requirements.txt
 cp .env.example .env
@@ -100,8 +100,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Support
 
-- Issues: [GitHub Issues](https://github.com/yourusername/stock-analyzer/issues)
-- Moltbook: @[yourhandle]
+- Issues: [GitHub Issues](https://github.com/Baoyx007/stock-analyzer/issues)
+- Moltbook: @haven
 
 ---
 
